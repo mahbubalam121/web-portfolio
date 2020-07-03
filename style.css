@@ -21,7 +21,7 @@ body {
   background-image: url("images/top-banner.png");
 }
 section {
-  height: 500px;
+  height: 550px;
 }
 .half-part {
   background-repeat: no-repeat;
@@ -35,6 +35,9 @@ section {
   border-radius: 5px;
   font-weight: 700;
   background-image: linear-gradient(60deg, lightsalmon, tomato);
+}
+.half-part {
+  margin-bottom: 10px;
 }
 .dream-part img {
   width: 80%;
